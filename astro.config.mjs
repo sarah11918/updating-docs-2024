@@ -20,6 +20,22 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Design principles',
+					items: [
+						{slug: 'design-principles/design-principles'},
+						{slug: 'design-principles/modularity'},
+						{slug: 'design-principles/hierarchy'},
+						{slug: 'design-principles/five-hat-racks'},
+						{slug: 'design-principles/progressive-disclosure'},
+						{slug: 'design-principles/entry-point'},
+						{slug: 'design-principles/desire-line'},
+						{slug: 'design-principles/wayfinding'},
+						{slug: 'design-principles/immersion'},
+						{slug: 'design-principles/consistency'},
+						{slug: 'design-principles/forgiveness'},
+					]
+				},
+				{
 					label: 'Considerations',
 					autogenerate: {directory: 'considerations'},
 				},
