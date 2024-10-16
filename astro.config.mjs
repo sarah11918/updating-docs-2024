@@ -20,6 +20,10 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'Considerations',
+					autogenerate: {directory: 'considerations'},
+				},
+				{
 					label: 'Research',
 					autogenerate: {directory: 'sources'},
 				},
