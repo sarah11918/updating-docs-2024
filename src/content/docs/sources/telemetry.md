@@ -11,3 +11,5 @@ However, some integrations are an order of magnitude more popular than others. U
 
 ![Official integration popularity (active projects in the last 30 days)](../../../assets/telemetry-integrations.png)
 
+![Official adapters popularity (unique usage in the last six months)](../../../assets/astro-adapters.png)
+
