@@ -14,6 +14,7 @@ export default defineConfig({
 					label: 'About the project',
 					items: [
 						// Each item here is one entry in the navigation menu.
+						{ label: 'Introduction', slug: 'about/introduction' },
 						{ label: 'Background', slug: 'about/background' },
 						{ label: 'Problem Statement', slug: 'about/project' },
 					],
