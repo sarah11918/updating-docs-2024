@@ -9,6 +9,9 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/sarah11918/updating-docs-2024',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			  ],
 			sidebar: [
 				{
 					label: 'About the project',
